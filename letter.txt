@@ -1,0 +1,10 @@
+01/2-{admin_number}-{own_number}-{letter_number}
+{created_date}
+{adress}
+{street}
+{company_name}
+{inn_number}
+{phone_number}
+{letter_title}
+{letter_date} faqat  har oyning 6-sanasi
+asd
