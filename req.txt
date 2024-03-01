@@ -5,7 +5,7 @@ chardet==5.2.0
 charset-normalizer==3.3.2
 coreapi==2.3.3
 coreschema==0.0.4
-Django==4.0
+Django==4.2
 django-cors-headers==4.3.1
 django-debug-toolbar==4.3.0
 django-jazzmin==2.6.0
@@ -17,6 +17,7 @@ django-rest-swagger==2.2.0
 django-tinymce==3.7.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.3.1
+docutils==0.20.1
 drf-yasg==1.21.7
 idna==3.6
 inflection==0.5.1
@@ -29,6 +30,7 @@ packaging==23.2
 pandas==2.2.1
 pdfkit==0.6.0
 pillow==10.2.0
+psycopg2-binary==2.9.9
 pydantic==2.6.3
 pydantic_core==2.16.3
 PyJWT==2.8.0
